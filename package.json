@@ -1,0 +1,10 @@
+{
+  "name": "zeromike",
+  "version": "1.0.0",
+  "description": "a smooth move tool",
+  "main": "index.js",
+  "repository": "https://github.com/zhangzhaoaaa/smoothMove.git",
+  "author": "zhangzhao <zhangzhao@gomeplus.com>",
+  "license": "MIT",
+  "dependencies": {}
+}
